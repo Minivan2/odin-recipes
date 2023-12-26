@@ -1,0 +1,44 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #EEE7DA;
+}
+
+.heading {
+    text-align: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading p {
+    padding: 0%;
+}
+
+.container {
+    display:grid;
+    margin: 0px;
+    padding: 0px;
+}
+
+.chef{
+    display:flex;
+    justify-content: center;
+}
+
+.chef .row {
+    display: inline-flex;
+}
+
+.chef img {
+    width: 400px;
+}
+
+.chef .item1 {
+    max-width: 500px;
+}
